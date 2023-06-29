@@ -20,7 +20,7 @@ A theme of Ventoy, a solution to adaptation to any resolution, better than such 
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-
+![image](https://github.com/M-L-P/theme-ventoy/assets/69227436/b9ac2db2-5e1d-4353-9c56-4bf037b7e63e)
 </details>
 
 ## 🧭Guide⬇️
