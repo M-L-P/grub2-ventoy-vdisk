@@ -30,7 +30,7 @@ Better than such thing without tensile elasticity.
 https://www.ventoy.net/en/plugin_theme.html
 
 ## ⭐Star🌟
-If you like it and are looking forward to the coming update, you can star it.💫
+If you like it and are looking forward to the coming update, you can star it.💫<br/>
 Tell your friends that you have got a good stuff.
 
 ## 🎉Credit🎊
