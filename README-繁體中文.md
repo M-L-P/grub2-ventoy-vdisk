@@ -12,31 +12,31 @@
 
 <h1 align="center">theme-ventoy</h1>
 
-A theme of Ventoy,<br/>
-A solution to adaptation to some common series of resolutions,<br/>
-Better than such thing without tensile elasticity.
+一個適用於 Ventoy 的主題，<br/>
+擁有一個適應常見系列分辨率的解決方案，<br/>
+比沒有拉伸彈性的主題更高級。
 
 
-## 💻️Preview👀
+## 💻️預覽👀
 
 <details>
-<summary>🖱️Click to Unfold to see🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 ![image](https://github.com/M-L-P/theme-ventoy/assets/69227436/b9ac2db2-5e1d-4353-9c56-4bf037b7e63e)
 </details>
 
-## 🧭Guide⬇️
+## 🧭指南⬇️
 
-https://www.ventoy.net/en/plugin_theme.html
+https://www.ventoy.net/cn/plugin_theme.html
 
-## ⭐Star🌟
-If you like it and are looking forward to the coming update, you can star it.💫
-Tell your friends that you have got a good stuff.
+## ⭐收藏🌟
+如果你喜歡並且期待未來的更新，你可以點亮星星。💫
+告訴你的朋友，你得到了個好東西。
 
-## 🎉Credit🎊
-- Many things are adapted from the official theme of [Ventoy](https://github.com/ventoy/Ventoy);
-- Drawing on the advantage of the grub theme of Manjaro;
-- Some icons coming from [Iconfont](https://www.iconfont.cn/);
-- Some icons coming from [Iconfinder](https://www.iconfinder.com/);
-- Others coming from Unknown;
+## 🎉來源🎊
+- 許多素材來自 [Ventoy](https://github.com/ventoy/Ventoy) 的官方主題；
+- 借鑒了 Manjaro 的 grub 主題的優點；
+- 一些圖標來自 [Iconfont](https://www.iconfont.cn/)；
+- 一些圖標來自 [Iconfinder](https://www.iconfinder.com/)；
+- 其他未知出處；
 - ...
