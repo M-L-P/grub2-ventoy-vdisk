@@ -22,8 +22,11 @@ Better than such thing without tensile elasticity.
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/theme-ventoy/1k.png"><br/>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/theme-ventoy/1080p-tree.png"><br/>
+### 1024x768
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/theme-ventoy/1k.png">
+
+### 1920x1080
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/theme-ventoy/1080p-tree.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/theme-ventoy/1080p.png">
 </details>
 
