@@ -13,8 +13,7 @@
 <h1 align="center">theme-ventoy</h1>
 
 A theme of Ventoy,<br/>
-A solution to adaptation to some common series of resolutions,<br/>
-Better than such thing without tensile elasticity.
+A solution to adaptation to some common series of resolutions.
 
 
 ## 💻️Preview👀
