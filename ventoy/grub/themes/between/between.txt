@@ -1,0 +1,51 @@
+desktop-image: "background.jpg"
+desktop-image-scale-method: "crop"
+desktop-image-h-align: "center"
+title-text: " "
+title-color: "#ffffff"
+message-color: "#f2f2f2"
+
+terminal-box: "terminal_box_*.png"
+terminal-font: "Terminus Regular 12"
+
++ boot_menu {
+	left = 5%
+	width = 90%
+	top = 20%
+	height = 50%
+
+	menu_pixmap_style = "menu_*.png"
+
+	item_font = "Microsoft YaHei Regular 24"
+	item_color = "#ffffff"  
+	item_height = 144
+  
+	item_spacing = 0
+	item_padding = 0
+
+	selected_item_color= "#f2f2f2"
+	selected_item_pixmap_style = "select_*.png"
+
+	item_icon_space = 64
+
+	scrollbar = true
+	scrollbar_width = 10
+	scrollbar_thumb = "slider_*.png"
+
+	icon_height = 128
+	icon_width = 128
+}
+
++ progress_bar {
+	id = "__timeout__"
+	left = 5%
+	top = 90%
+	height = 20
+	width = 90%
+	font = "Microsoft YaHei Regular 24"
+	text_color = "#30353a"
+	fg_color = "#27c6db"
+	bg_color = "#e2f4fe"
+	border_color = "#00a7e2"
+	text = "@TIMEOUT_NOTIFICATION_SHORT@"
+}
