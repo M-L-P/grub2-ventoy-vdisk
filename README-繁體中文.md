@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1k.png">
 
 ### 1920x1080
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/between-1080p">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/between-1080p.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1080p-tree.png">
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/grub2-ventoy-vdisk/1080p.png">
 </details>
