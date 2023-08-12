@@ -15,6 +15,7 @@
 Grub2 to boot the Ventoy installed into a virtual disk with special themes.
 - A solution to adaptation to some common series of resolutions;
 - No need to use a USB drive;
+- No need to copy .iso files to a USB drive;
 - No need to modify the MBR and the partition table of the built-in hard drive;
 - More convenient for users who happen to be without a USB drive to install multi-OSes.
 
