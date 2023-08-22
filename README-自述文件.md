@@ -1,3 +1,6 @@
+暂时只能启动 WinPE ，Linux 启动失败，可能是没能成功加载 ventoy.cpio<br/>
+正在想办法解决。
+
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-ventoy-vdisk)](https://github.com/M-L-P/grub2-ventoy-vdisk/releases/latest)

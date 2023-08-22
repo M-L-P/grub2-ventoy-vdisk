@@ -1,3 +1,6 @@
+Only WinPE can be booted, temporarily, while Linux distros fail to be booted, possibly due to failure to load ventory.cpio<br/>
+Trying to find a solution.
+
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-ventoy-vdisk)](https://github.com/M-L-P/grub2-ventoy-vdisk/releases/latest)
