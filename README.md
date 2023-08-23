@@ -1,4 +1,4 @@
-Only WinPE can be booted, temporarily, while Linux distros fail to be booted, possibly due to failure to load ventory.cpio<br/>
+Only WinPE can be booted, temporarily, while Linux distros fail to be booted, possibly due to failure to load ventoy.cpio<br/>
 Trying to find a solution.
 
 <div align="center">
