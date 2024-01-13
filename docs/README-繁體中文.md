@@ -1,6 +1,15 @@
 暫時只能啟動 WinPE ，Linux 啟動失敗，可能是沒能成功加載 ventoy.cpio<br/>
 正在想辦法解決。
 
+## 请求支援
+帮我下载无忧论坛资源，帖子链接：http://wuyou.net/forum.php?mod=viewthread&tid=432540&fromuid=869921 <br/>
+有道云笔记链接：https://note.youdao.com/ynoteshare/index.html?id=a1825fc7c17a6b86b40d392a88d7719b&type=note&_time=1705155332723 <br/>
+里面提供的百度网盘的链接过期了，如果你保存了，可以新建 Discussion 分享给我；<br/><img src="https://github.com/M-L-P/grub2-ventoy-vdisk/assets/69227436/ed173e23-2cb7-492e-a60a-d4145bc5e95a"><br/>
+ksjifjui 说他 修改了源码，请帮我找到他源码的仓库。
+![image](https://github.com/M-L-P/grub2-ventoy-vdisk/assets/69227436/9ea52ed1-5695-4a88-9f64-67b75cf8fc74)
+
+如果有他改编的部署包，或者他的源码仓库，应该能够解决无法启动 Linux 的问题。
+
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/grub2-ventoy-vdisk)](https://github.com/M-L-P/grub2-ventoy-vdisk/releases/latest)
@@ -21,7 +30,6 @@
 - 沒必要把 .iso 文件 復製到 U 盤；
 - 沒必要修改內置硬盤的 主引導記錄 和 分區表；
 - 對於碰巧手頭沒 U 盤 的用戶來說，安裝多系統將更加方便。
-
 
 ## 💻️預覽👀
 
